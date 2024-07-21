@@ -2,7 +2,7 @@ import styles from './App.module.css';
 import logo from './logo.svg';
 
 function App() {
-  // console.log(chrome.runtime);
+  console.log(chrome.runtime);
   return (
     <div class={styles.App}>
       <header class={styles.header}>
